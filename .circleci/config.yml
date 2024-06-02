@@ -21,7 +21,7 @@ jobs:
 
 workflows:
   # Name of workflow
-  hello_and_goodbye:
+  stefano_and_goodjob:
     # List of jobs that will run
     jobs:
       - say_stefano
